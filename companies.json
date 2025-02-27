@@ -1,0 +1,143 @@
+[
+    {
+      "id": "COMP-001",
+      "name": "Apple Inc.",
+      "description": "Apple is een Amerikaans technologiebedrijf dat bekend staat om de iPhone, Mac en innovatieve software-ecosystemen.",
+      "marketValue": 3000,
+      "isActive": true,
+      "foundedDate": "1976-04-01",
+      "imageUrl": "https://raw.githubusercontent.com/yourrepo/apple.jpg",
+      "industry": "Technology",
+      "locations": ["USA", "China", "Germany", "Japan"],
+      "founder": {
+        "id": "FOU-001"
+      }
+    },
+    {
+      "id": "COMP-002",
+      "name": "Microsoft",
+      "description": "Microsoft is een van de grootste softwarebedrijven ter wereld en de maker van Windows en Office.",
+      "marketValue": 2900,
+      "isActive": true,
+      "foundedDate": "1975-04-04",
+      "imageUrl": "https://raw.githubusercontent.com/yourrepo/microsoft.jpg",
+      "industry": "Technology",
+      "locations": ["USA", "UK", "India"],
+      "founder": {
+        "id": "FOU-002"
+      }
+    },
+    {
+      "id": "COMP-003",
+      "name": "Amazon",
+      "description": "Amazon is een wereldwijde e-commerce en cloud computing gigant.",
+      "marketValue": 1800,
+      "isActive": true,
+      "foundedDate": "1994-07-05",
+      "imageUrl": "https://raw.githubusercontent.com/yourrepo/amazon.jpg",
+      "industry": "E-commerce",
+      "locations": ["USA", "Canada", "Europe"],
+      "founder": {
+        "id": "FOU-003"
+      }
+    },
+    {
+      "id": "COMP-004",
+      "name": "Alphabet (Google)",
+      "description": "Alphabet is het moederbedrijf van Google en een leider in internetdiensten en AI.",
+      "marketValue": 2000,
+      "isActive": true,
+      "foundedDate": "1998-09-04",
+      "imageUrl": "https://raw.githubusercontent.com/yourrepo/alphabet.jpg",
+      "industry": "Technology",
+      "locations": ["USA", "UK", "Australia"],
+      "founder": {
+        "id": "FOU-004"
+      }
+    },
+    {
+      "id": "COMP-005",
+      "name": "Tesla",
+      "description": "Tesla is een pionier op het gebied van elektrische voertuigen en duurzame energie.",
+      "marketValue": 850,
+      "isActive": true,
+      "foundedDate": "2003-07-01",
+      "imageUrl": "https://raw.githubusercontent.com/yourrepo/tesla.jpg",
+      "industry": "Automotive",
+      "locations": ["USA", "China", "Germany"],
+      "founder": {
+        "id": "FOU-005"
+      }
+    },
+    {
+      "id": "COMP-006",
+      "name": "Meta (Facebook)",
+      "description": "Meta is een social media en metaverse bedrijf, bekend van Facebook, Instagram en WhatsApp.",
+      "marketValue": 900,
+      "isActive": true,
+      "foundedDate": "2004-02-04",
+      "imageUrl": "https://raw.githubusercontent.com/yourrepo/meta.jpg",
+      "industry": "Social Media",
+      "locations": ["USA", "Europe"],
+      "founder": {
+        "id": "FOU-006"
+      }
+    },
+    {
+      "id": "COMP-007",
+      "name": "Berkshire Hathaway",
+      "description": "Berkshire Hathaway is een van de grootste investeringsmaatschappijen ter wereld.",
+      "marketValue": 780,
+      "isActive": true,
+      "foundedDate": "1839-01-01",
+      "imageUrl": "https://raw.githubusercontent.com/yourrepo/berkshire.jpg",
+      "industry": "Finance",
+      "locations": ["USA"],
+      "founder": {
+        "id": "FOU-007"
+      }
+    },
+    {
+      "id": "COMP-008",
+      "name": "Nvidia",
+      "description": "Nvidia is een leider in grafische processoren en AI-technologie.",
+      "marketValue": 1700,
+      "isActive": true,
+      "foundedDate": "1993-04-05",
+      "imageUrl": "https://raw.githubusercontent.com/yourrepo/nvidia.jpg",
+      "industry": "Semiconductors",
+      "locations": ["USA", "China"],
+      "founder": {
+        "id": "FOU-008"
+      }
+    },
+    {
+      "id": "COMP-009",
+      "name": "Saudi Aramco",
+      "description": "Saudi Aramco is een van de grootste oliebedrijven ter wereld.",
+      "marketValue": 2200,
+      "isActive": true,
+      "foundedDate": "1933-05-29",
+      "imageUrl": "https://raw.githubusercontent.com/yourrepo/saudiaramco.jpg",
+      "industry": "Oil & Gas",
+      "locations": ["Saudi Arabia"],
+      "founder": {
+        "id": "FOU-009"
+      }
+    },
+    {
+      "id": "COMP-010",
+      "name": "Tencent",
+      "description": "Tencent is een van de grootste gaming en technologiebedrijven ter wereld.",
+      "marketValue": 500,
+      "isActive": true,
+      "foundedDate": "1998-11-11",
+      "imageUrl": "https://raw.githubusercontent.com/yourrepo/tencent.jpg",
+      "industry": "Gaming",
+      "locations": ["China", "USA"],
+      "founder": {
+        "id": "FOU-010"
+      }
+    }
+  ]
+  

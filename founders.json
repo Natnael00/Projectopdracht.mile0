@@ -1,0 +1,13 @@
+[
+    { "id": "FOU-001", "name": "Steve Jobs", "birthDate": "1955-02-24", "nationality": "USA" },
+    { "id": "FOU-002", "name": "Bill Gates", "birthDate": "1955-10-28", "nationality": "USA" },
+    { "id": "FOU-003", "name": "Jeff Bezos", "birthDate": "1964-01-12", "nationality": "USA" },
+    { "id": "FOU-004", "name": "Larry Page", "birthDate": "1973-03-26", "nationality": "USA" },
+    { "id": "FOU-005", "name": "Elon Musk", "birthDate": "1971-06-28", "nationality": "USA" },
+    { "id": "FOU-006", "name": "Mark Zuckerberg", "birthDate": "1984-05-14", "nationality": "USA" },
+    { "id": "FOU-007", "name": "Oliver Chace", "birthDate": "1769-08-24", "nationality": "USA" },
+    { "id": "FOU-008", "name": "Jensen Huang", "birthDate": "1963-02-17", "nationality": "Taiwan" },
+    { "id": "FOU-009", "name": "Saudi Government", "birthDate": "1933-05-29", "nationality": "Saudi Arabia" },
+    { "id": "FOU-010", "name": "Ma Huateng", "birthDate": "1971-10-29", "nationality": "China" }
+  ]
+  
