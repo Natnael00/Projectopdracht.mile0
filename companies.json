@@ -6,7 +6,7 @@
       "marketValue": 3000,
       "isActive": true,
       "foundedDate": "1976-04-01",
-      "imageUrl": "https://raw.githubusercontent.com/yourrepo/apple.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Natnael00/Projectopdracht.mile0/main/images/Apple-logo.jpg",
       "industry": "Technology",
       "locations": ["USA", "China", "Germany", "Japan"],
       "founder": {
@@ -20,7 +20,7 @@
       "marketValue": 2900,
       "isActive": true,
       "foundedDate": "1975-04-04",
-      "imageUrl": "https://raw.githubusercontent.com/yourrepo/microsoft.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Natnael00/Projectopdracht.mile0/main/images/Microsoft-logo.jpg",
       "industry": "Technology",
       "locations": ["USA", "UK", "India"],
       "founder": {
@@ -34,7 +34,7 @@
       "marketValue": 1800,
       "isActive": true,
       "foundedDate": "1994-07-05",
-      "imageUrl": "https://raw.githubusercontent.com/yourrepo/amazon.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Natnael00/Projectopdracht.mile0/main/images/Amazon-logo.png",
       "industry": "E-commerce",
       "locations": ["USA", "Canada", "Europe"],
       "founder": {
@@ -62,7 +62,7 @@
       "marketValue": 850,
       "isActive": true,
       "foundedDate": "2003-07-01",
-      "imageUrl": "https://raw.githubusercontent.com/yourrepo/tesla.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Natnael00/Projectopdracht.mile0/main/images/Tesla-logo.png",
       "industry": "Automotive",
       "locations": ["USA", "China", "Germany"],
       "founder": {
@@ -76,7 +76,7 @@
       "marketValue": 900,
       "isActive": true,
       "foundedDate": "2004-02-04",
-      "imageUrl": "https://raw.githubusercontent.com/yourrepo/meta.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Natnael00/Projectopdracht.mile0/main/images/Meta-logo.png",
       "industry": "Social Media",
       "locations": ["USA", "Europe"],
       "founder": {
@@ -90,7 +90,7 @@
       "marketValue": 780,
       "isActive": true,
       "foundedDate": "1839-01-01",
-      "imageUrl": "https://raw.githubusercontent.com/yourrepo/berkshire.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Natnael00/Projectopdracht.mile0/main/images/Berkshire-Hathaway-logo.png",
       "industry": "Finance",
       "locations": ["USA"],
       "founder": {
@@ -104,7 +104,7 @@
       "marketValue": 1700,
       "isActive": true,
       "foundedDate": "1993-04-05",
-      "imageUrl": "https://raw.githubusercontent.com/yourrepo/nvidia.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Natnael00/Projectopdracht.mile0/main/images/Nvidia-logo.png",
       "industry": "Semiconductors",
       "locations": ["USA", "China"],
       "founder": {
@@ -118,7 +118,7 @@
       "marketValue": 2200,
       "isActive": true,
       "foundedDate": "1933-05-29",
-      "imageUrl": "https://raw.githubusercontent.com/yourrepo/saudiaramco.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Natnael00/Projectopdracht.mile0/main/images/saudi-aramco-logo.png",
       "industry": "Oil & Gas",
       "locations": ["Saudi Arabia"],
       "founder": {
@@ -132,7 +132,7 @@
       "marketValue": 500,
       "isActive": true,
       "foundedDate": "1998-11-11",
-      "imageUrl": "https://raw.githubusercontent.com/yourrepo/tencent.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Natnael00/Projectopdracht.mile0/main/images/Tencent-logo.png",
       "industry": "Gaming",
       "locations": ["China", "USA"],
       "founder": {
